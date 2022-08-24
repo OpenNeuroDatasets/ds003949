@@ -4,7 +4,7 @@ Description: This dataset set is composed of 284 TOF-MRA subjects, of which 127 
 
 Please cite the following reference if you use this dataset:
 
-Di Noto, et al. "Towards automated brain aneurysm detection in TOF-MRA: open data, weak labels, and anatomical knowledge." arXiv preprint arXiv:2103.06168v5 (2021).
+Di Noto, et al. "Towards Automated Brain Aneurysm Detection in TOF-MRA: Open Data, Weak Labels, and Anatomical Knowledge", Neuroinformatics, 2022, https://doi.org/10.1007/s12021-022-09597-0
 
 Here is an overview of the dataset organization: every original folder (i.e. non-derivative) contains the TOF-MRA and the T1w volume of the subjects. Instead, the "derivatives" folder contains 3 sub-folders:
 
